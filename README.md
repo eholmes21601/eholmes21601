@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @eholmes21601
-- 👀 I’m interested in Data Analysis and Data Science.
+- 👀 I’m interested in Data Analysis, Data Science, and mathematics education.
+- I enjoy programming in the R language to find patterns in data.
+- I have a B.S. in mathematics, a M.Ed. in School Leadership, and a Ph.D. in educational research and data analytics.
 
 
 <!---
